@@ -1,0 +1,19 @@
+.css-1ixeenm-MuiImageList-root {
+    overflow-y: initial !important;
+}
+.output{
+    margin: 0 auto;
+
+}
+.title{
+    text-align: center;
+}
+.cocktail_item{
+    width: 20%;
+    text-align: center;
+}
+.cocktail_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
